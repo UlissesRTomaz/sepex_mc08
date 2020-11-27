@@ -4,6 +4,5 @@ class principal{
     
     static void Main(){
         
-        }
     }
 }
