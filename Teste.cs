@@ -1,6 +1,10 @@
 using System;
 
-class principal{
+class NewClass{
+    
+}
+
+class Principal{
     
     static void Main(){
         
