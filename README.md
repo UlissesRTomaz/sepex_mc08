@@ -8,6 +8,5 @@ Sumário
 ======
 
 - Controle de Versões
-- Git
-- GitHub
+- Git e GitHub
 
