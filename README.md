@@ -9,4 +9,5 @@ Sumário
 
 - Controle de Versões
 - Git e GitHub
+- Minicurso Git e GitHub
 
