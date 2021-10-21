@@ -4,3 +4,10 @@ Palestrantes: Gabriel Campos de Albuquerque,
               Rosana Soares Gomes Costa e
               Ulisses Roque Tomaz
 
+Sumário
+======
+
+- Controle de Versões
+- Git
+- GitHub
+
